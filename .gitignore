@@ -3,6 +3,6 @@
 sitemap.xml
 sitemap.xml.gz
 wp-config.php
-/wp-content/
-/vendor/
+wp-content/
+vendor/
 
