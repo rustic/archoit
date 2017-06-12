@@ -1,0 +1,21 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/disqus-comment-system": "2.87",
+        "wpackagist-plugin/google-analytics-for-wordpress": "6.2.*",
+        "wpackagist-plugin/siteorigin-panels": "2.5.*",
+        "wpackagist-plugin/printfriendly": "3.8.*",
+        "wpackagist-plugin/simple-custom-css": "3.3",
+        "wpackagist-plugin/so-widgets-bundle": "1.9.*",
+        "wpackagist-plugin/oa-social-login": "5.3",
+        "wpackagist-plugin/types": "2.2.*",
+        "wpackagist-plugin/wordfence": "6.3.*",
+        "wpackagist-plugin/wp-knowledgebase": "1.1.*",
+        "wpackagist-theme/sydney": "1.39"
+    }
+}
